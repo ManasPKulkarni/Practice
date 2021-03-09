@@ -1,3 +1,5 @@
+package com.devSense.misc;
+
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
@@ -15,6 +17,7 @@ public class TestEmployee {
 		mySet.add(e2);
 		mySet.add(e1);
 		mySet.add(e3);
+	
 		
 		Iterator<Employee> iter = mySet.iterator();
 		
@@ -24,6 +27,7 @@ public class TestEmployee {
 			
 		}
 		
+		System.out.println(mySet.contains(e3));
 		
 		Developer d1 = new Developer(1, "manas", 5);
 		d1.getSomething(1.0, 2.0);

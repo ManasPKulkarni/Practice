@@ -1,3 +1,5 @@
+package com.devSense.misc;
+
 import java.util.Scanner;
 
 public class RevSentence1 {

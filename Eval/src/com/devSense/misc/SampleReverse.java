@@ -1,4 +1,4 @@
-package temp;
+package com.devSense.misc;
 
 public class SampleReverse {
 

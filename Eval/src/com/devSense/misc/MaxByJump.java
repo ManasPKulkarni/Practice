@@ -1,4 +1,4 @@
-
+package com.devSense.misc;
 public class MaxByJump {
 
 	public static void main(String[] args) {
